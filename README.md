@@ -54,30 +54,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/mylenatorquato/mylenatorquato/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="left"></p>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
