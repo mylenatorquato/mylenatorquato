@@ -2,15 +2,23 @@
 
 ---
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center" width="35%">
-      <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM283cWFkOWU4bjd0MWRzdjFtM3d3dTExazd4Ym90MjByOXR3eWx4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vFKqnCdLPNOKc/giphy.gif" />
+    <td width="45%" align="center" valign="middle">
+      <img
+        height="220"
+        src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM283cWFkOWU4bjd0MWRzdjFtM3d3dTExazd4Ym90MjByOXR3eWx4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vFKqnCdLPNOKc/giphy.gif"
+      />
       <br/><br/>
       <a href="https://www.linkedin.com/in/mylena-torquato/" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="40" />
+        <img
+          src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge"
+          height="55"
+        />
       </a>
     </td>
+    
+<td width="55%" align="right" valign="top">
 
 ```yaml
 name: "Mylena Torquato"
@@ -41,3 +49,6 @@ hobbies:
   - Lego
   - Cinema
   - Competitive Gaming
+```
+</td>
+
