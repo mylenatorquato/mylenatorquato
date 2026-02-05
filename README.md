@@ -6,7 +6,7 @@
 <td width="45%" valign="top" align="left">
 
   <img
-    height="110"
+    height="220"
     src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM283cWFkOWU4bjd0MWRzdjFtM3d3dTExazd4Ym90MjByOXR3eWx4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vFKqnCdLPNOKc/giphy.gif"
   />
   <img width="16"/>
