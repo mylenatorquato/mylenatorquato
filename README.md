@@ -9,7 +9,7 @@
     height="280"
     src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM283cWFkOWU4bjd0MWRzdjFtM3d3dTExazd4Ym90MjByOXR3eWx4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vFKqnCdLPNOKc/giphy.gif"
   />
-  <img width="20"/>
+  <img width="12"/>
     <a href="https://www.linkedin.com/in/mylena-torquato/" target="_blank">
     <img
       src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge"
