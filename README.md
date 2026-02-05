@@ -4,7 +4,7 @@
 
 <table width="100%">
   <tr>
-    <td width="45%" align="center" valign="middle">
+    <td width="45%" align="center">
       <img
         height="220"
         src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM283cWFkOWU4bjd0MWRzdjFtM3d3dTExazd4Ym90MjByOXR3eWx4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vFKqnCdLPNOKc/giphy.gif"
@@ -21,7 +21,7 @@
 <td width="55%" align="right" valign="top">
   <div align="left">
   
-    ```yaml
+  ```yaml
     name: "Mylena Torquato"
     age: 18
     located_in: Brazil
@@ -50,7 +50,7 @@
       - Lego
       - Cinema
       - Competitive Gaming
-    ```  
+  ```  
   </div>
 
 </td>
