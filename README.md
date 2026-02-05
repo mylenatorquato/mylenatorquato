@@ -19,36 +19,39 @@
     </td>
     
 <td width="55%" align="right" valign="top">
+  <div align="left">
+  
+    ```yaml
+    name: "Mylena Torquato"
+    age: 18
+    located_in: Brazil
+    job: Infrastructure Analyst L1
+    
+    education:
+      - Computer Networks, SENAI
+      - Focus in Linux, Networking, and Monitoring (Zabbix & Grafana)
+    
+    currently_working_at:
+      - NOC monitoring and infrastructure support at Selbetti
+    
+    fields_of_study:
+      - Monitoring tools (Zabbix, Prometheus, Grafana)
+      - Linux
+      - Cloud
+      - Automation (Go & Python)
+      - IaC
+    
+    technical_focus:
+      - Monitoring
+      - Optimization
+      - Cloud & Infrastructure
+    
+    hobbies:
+      - Lego
+      - Cinema
+      - Competitive Gaming
+    ```  
+  </div>
 
-```yaml
-name: "Mylena Torquato"
-age: 18
-located_in: Brazil
-job: Infrastructure Analyst L1
-
-education:
-  - Computer Networks, SENAI
-  - Focus in Linux, Networking, and Monitoring (Zabbix & Grafana)
-
-currently_working_at:
-  - NOC monitoring and infrastructure support at Selbetti
-
-fields_of_study:
-  - Monitoring tools (Zabbix, Prometheus, Grafana)
-  - Linux
-  - Cloud
-  - Automation (Go & Python)
-  - IaC
-
-technical_focus:
-  - Monitoring
-  - Optimization
-  - Cloud & Infrastructure
-
-hobbies:
-  - Lego
-  - Cinema
-  - Competitive Gaming
-```
 </td>
 
