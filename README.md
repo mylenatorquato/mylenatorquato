@@ -4,7 +4,6 @@
 
 <table>
   <tr>
-    <!-- COLUNA ESQUERDA -->
     <td align="center" width="35%">
       <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM283cWFkOWU4bjd0MWRzdjFtM3d3dTExazd4Ym90MjByOXR3eWx4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vFKqnCdLPNOKc/giphy.gif" />
       <br/><br/>
@@ -12,9 +11,6 @@
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="40" />
       </a>
     </td>
-
-    <!-- COLUNA DIREITA -->
-    <td width="65%">
 
 ```yaml
 name: "Mylena Torquato"
