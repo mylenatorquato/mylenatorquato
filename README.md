@@ -54,7 +54,7 @@
     
     education:
       - Computer Networks, SENAI
-      - Focus in Linux, Networking, and Monitoring (Zabbix & Grafana)
+      - Computer Science, FIAP
     
     currently_working_at:
       - NOC monitoring and infrastructure support at Selbetti
